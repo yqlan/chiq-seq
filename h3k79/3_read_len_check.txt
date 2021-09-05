@@ -1,0 +1,5 @@
+sample	read_length	read_num
+csh3_4OHT_h3k79me2.fastq	81	33224224
+csh3_4OHT_input.fastq	81	34122147
+csh3_no4OHT_h3k79me2.fastq	81	36196179
+csh3_no4OHT_input.fastq	81	37556203
